@@ -1,0 +1,74 @@
+\documentclass[12pt,letterpaper]{report}
+
+\marginparsep 0pt
+\textwidth 6in
+\topmargin 0pt
+\headsep .5in
+\textheight 9.2in
+\voffset = 0pt
+\hoffset = 0pt
+\marginparwidth = 0pt \oddsidemargin = 0pt \sloppy
+
+%Dimensiones de la página
+\usepackage[left=2.5cm,top=1cm,right=2.5cm,bottom=1cm]{geometry}
+%Sangría
+\setlength{\parindent}{1cm}
+
+%Numeracion
+\pagenumbering{arabic}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage[dvips]{epsfig}
+\usepackage[dvips]{graphicx}
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage[]{fontenc}
+\usepackage{times}
+\usepackage[usenames]{color}
+\usepackage{templateICI}
+\usepackage{amsmath,amsfonts}
+\newcommand{\ie}{i.e.}
+\newcommand {\out}[1]{}
+\newtheorem{definicion}{Definicion}
+\usepackage{array}
+\usepackage{hyperref}
+
+\renewcommand{\shorthandsspanish}{}
+\addto\captionsspanish{
+\def\listtablename{Índice de tablas}
+\def\tablename{Tabla}}
+
+\sloppy
+
+\begin{document}
+\title{\textbf{Sistema de Minería de Datos para apoyar la toma de decisiones de profesionales que utilizan NCFAS en el PPF AITUÉ}}
+\author{\textbf{Marcelo Esteban Verdugo Reyes}}
+\principaladviser{Eliana Paz Providel Godoy}
+\coprincipaladviser{Nombre Profesor Correferente}
+\firstreader{Nombre Profesor Informante 1}
+
+\beforepreface
+\prefacesection{Resumen}
+En Chile existen diferentes familias que se encuentran en situaciones de riesgo social, el cual repercute, ocasionalmente en vulneraciones de los derechos de los niños, niñas y adolescentes (NNA)\footnote{En las siguientes páginas se utilizará a menudo la sigla NNA para referirse a los niños, niñas y adolescentes.}. Existen distintas instituciones para la protección de los integrantes de las familias, dentro de estas se encuentran las corporaciones que buscan intervenir en ellas con el fin de brindar apoyo en las tareas de crianza y desarrollo personal de los NNA. 
+En estas corporaciones los profesionales capacitados utilizan diferentes herramientas para analizar situaciones de riesgo en la cual se ven insertas estas familias, donde la experiencia en la toma de decisiones juega un rol fundamental.\\ 
+Estas corporaciones por lo general no disponen de herramientas que utilicen Tecnologías de Informaci\'on y Comunicaci\'on (TIC) por lo cual en este Trabajo de T\'itulo se busca apoyar a los especialistas con herramientas TIC, para as\'i agilizar sus procesos y tambi\'en ser de ayuda a la hora de tomar decisiones.
+
+
+\renewcommand{\thepage}{\roman{page}}
+\tableofcontents
+\newpage
+\listoftables
+\listoffigures
+\newpage
+
+%Aqui deben incluir el fuente de cada capitulo, sin su encabezado.
+\renewcommand{\thepage}{\arabic{page}}
+\include{diseno}
+\bibliographystyle{plain}
+\bibliography{informe,terminologia}
+
+\end{document} 

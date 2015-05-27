@@ -1,0 +1,55 @@
+\select@language {spanish}
+\contentsline {chapter}{Resumen}{\es@scroman {ii}}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{9}{chapter.1}
+\contentsline {chapter}{\numberline {2}Marco conceptual}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Terminolog\IeC {\'\i }a}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Definici\IeC {\'o}n del \IeC {\'a}rea del problema}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Vulneraciones de los Derechos de Ni\IeC {\~n}os, Ni\IeC {\~n}as y Adolescentes}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}PIB}{13}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}PPF}{14}{subsection.2.2.3}
+\contentsline {subsubsection}{PPF Aitu\IeC {\'e}}{14}{section*.5}
+\contentsline {subsection}{\numberline {2.2.4}NCFAS}{16}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Miner\IeC {\'\i }a de datos}{19}{subsection.2.2.5}
+\contentsline {subsubsection}{Knowliedge Discovery from Data (KDD)}{19}{section*.6}
+\contentsline {subsubsection}{Miner\IeC {\'\i }a de datos y sus t\IeC {\'e}cnicas}{20}{section*.7}
+\contentsline {subsection}{\numberline {2.2.6}Estad\IeC {\'\i }stica descriptiva}{21}{subsection.2.2.6}
+\contentsline {subsubsection}{Estad\IeC {\'\i }stica descriptiva y sus t\IeC {\'e}cnicas}{21}{section*.8}
+\contentsline {section}{\numberline {2.3}T\IeC {\'e}cnicas y herramientas existentes}{23}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}NCFAS-G Training Package}{24}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Fichas de Trabajo de Barudy}{24}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Conclusi\IeC {\'o}n}{26}{section.2.4}
+\contentsline {chapter}{\numberline {3}Definici\IeC {\'o}n del Problema y An\IeC {\'a}lisis}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Definici\IeC {\'o}n del problema}{27}{section.3.1}
+\contentsline {section}{\numberline {3.2}Objetivos}{27}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Objetivo General}{28}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Objetivos Espec\IeC {\'\i }ficos}{28}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Sistema Actual}{28}{section.3.3}
+\contentsline {section}{\numberline {3.4}Origen del Cambio}{29}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Producto}{29}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Impacto}{29}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Especificaci\IeC {\'o}n de Requerimientos}{30}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Definici\IeC {\'o}n de requerimientos}{30}{subsection.3.5.1}
+\contentsline {subsubsection}{Requerimientos funcionales}{30}{section*.9}
+\contentsline {subsubsection}{Requerimientos no funcionales}{30}{section*.10}
+\contentsline {subsection}{\numberline {3.5.2}Definici\IeC {\'o}n de usuarios y tareas del sistema}{32}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Definici\IeC {\'o}n de las funciones del sistema}{33}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Modelo Conceptual}{34}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {3.5.5}Diagrama de Casos de Uso}{35}{subsection.3.5.5}
+\contentsline {subsection}{\numberline {3.5.6}Caso de Uso en Formato Expandido}{37}{subsection.3.5.6}
+\contentsline {subsection}{\numberline {3.5.7}Diagramas de Secuencia}{47}{subsection.3.5.7}
+\contentsline {subsection}{\numberline {3.5.8}Diagramas de Estado}{52}{subsection.3.5.8}
+\contentsline {section}{\numberline {3.6}Conclusi\IeC {\'o}n}{57}{section.3.6}
+\contentsline {chapter}{\numberline {4}Dise\IeC {\~n}o}{58}{chapter.4}
+\contentsline {subsection}{\numberline {4.0.1}Dise\IeC {\~n}o arquitect\IeC {\'o}nico}{58}{subsection.4.0.1}
+\contentsline {section}{\numberline {4.1}Dise\IeC {\~n}o de interfaz}{58}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Estilos de interacci\IeC {\'o}n}{58}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Interfaz usuaria}{59}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Dise\IeC {\~n}o l\IeC {\'o}gico}{69}{section.4.2}
+\contentsline {subsubsection}{Esquemas de navegaci\IeC {\'o}n}{69}{section*.11}
+\contentsline {subsection}{\numberline {4.2.1}Diagrama de clases}{70}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Caso de uso reales}{71}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Dise\IeC {\~n}o de datos}{88}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Archivo ARFF}{88}{subsection.4.3.1}
+\contentsline {section}{\numberline {4.4}Dise\IeC {\~n}o de pruebas}{91}{section.4.4}
+\contentsline {section}{\numberline {4.5}Concluci\IeC {\'o}n}{92}{section.4.5}
+\contentsline {chapter}{Bibliograf\'{\i }a}{93}{chapter*.12}

@@ -1,0 +1,20 @@
+\BOOKMARK [0][-]{chapter*.1}{Resumen}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Dise\361o}{}% 2
+\BOOKMARK [1][-]{subsection.1.0.1}{Dise\361o arquitect\363nico}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.1}{Dise\361o de interfaz}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.1}{Estilos de interacci\363n}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.2}{Interfaz usuaria}{section.1.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Dise\361o l\363gico}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{Diagrama de clases}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{Caso de uso reales}{section.1.2}% 9
+\BOOKMARK [1][-]{section.1.3}{Dise\361o de datos}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.3.1}{Archivo ARFF}{section.1.3}% 11
+\BOOKMARK [1][-]{section.1.4}{Dise\361o de pruebas}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.4.1}{M\351todo de validaci\363n}{section.1.4}% 13
+\BOOKMARK [2][-]{subsection.1.4.2}{Grupos Muestrales}{section.1.4}% 14
+\BOOKMARK [2][-]{subsection.1.4.3}{Pruebas Unitarias}{section.1.4}% 15
+\BOOKMARK [2][-]{subsection.1.4.4}{Pruebas de integraci\363n}{section.1.4}% 16
+\BOOKMARK [2][-]{subsection.1.4.5}{Pruebas de aceptaci\363n de usuario}{section.1.4}% 17
+\BOOKMARK [2][-]{subsection.1.4.6}{Pruebas de usabilidad}{section.1.4}% 18
+\BOOKMARK [1][-]{section.1.5}{Concluci\363n}{chapter.1}% 19
+\BOOKMARK [0][-]{chapter*.7}{Bibliograf\355a}{}% 20

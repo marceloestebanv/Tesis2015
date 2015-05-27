@@ -1,0 +1,47 @@
+\BOOKMARK [0][-]{chapter*.1}{Resumen}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 2
+\BOOKMARK [0][-]{chapter.2}{Marco conceptual}{}% 3
+\BOOKMARK [1][-]{section.2.1}{Terminolog\355a}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.2}{Definici\363n del \341rea del problema}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.1}{Vulneraciones de los Derechos de Ni\361os, Ni\361as y Adolescentes}{section.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.2}{PIB}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.3}{PPF}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.4}{NCFAS}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.5}{Miner\355a de datos}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.6}{Estad\355stica descriptiva}{section.2.2}% 11
+\BOOKMARK [1][-]{section.2.3}{T\351cnicas y herramientas existentes}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.3.1}{NCFAS-G Training Package}{section.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3.2}{Fichas de Trabajo de Barudy}{section.2.3}% 14
+\BOOKMARK [1][-]{section.2.4}{Conclusi\363n}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Definici\363n del Problema y An\341lisis}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Definici\363n del problema}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Objetivos}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.2.1}{Objetivo General}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.2}{Objetivos Espec\355ficos}{section.3.2}% 20
+\BOOKMARK [1][-]{section.3.3}{Sistema Actual}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.4}{Origen del Cambio}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.4.1}{Producto}{section.3.4}% 23
+\BOOKMARK [2][-]{subsection.3.4.2}{Impacto}{section.3.4}% 24
+\BOOKMARK [1][-]{section.3.5}{Especificaci\363n de Requerimientos}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.5.1}{Definici\363n de requerimientos}{section.3.5}% 26
+\BOOKMARK [2][-]{subsection.3.5.2}{Definici\363n de usuarios y tareas del sistema}{section.3.5}% 27
+\BOOKMARK [2][-]{subsection.3.5.3}{Definici\363n de las funciones del sistema}{section.3.5}% 28
+\BOOKMARK [2][-]{subsection.3.5.4}{Modelo Conceptual}{section.3.5}% 29
+\BOOKMARK [2][-]{subsection.3.5.5}{Diagrama de Casos de Uso}{section.3.5}% 30
+\BOOKMARK [2][-]{subsection.3.5.6}{Caso de Uso en Formato Expandido}{section.3.5}% 31
+\BOOKMARK [2][-]{subsection.3.5.7}{Diagramas de Secuencia}{section.3.5}% 32
+\BOOKMARK [2][-]{subsection.3.5.8}{Diagramas de Estado}{section.3.5}% 33
+\BOOKMARK [1][-]{section.3.6}{Conclusi\363n}{chapter.3}% 34
+\BOOKMARK [0][-]{chapter.4}{Dise\361o}{}% 35
+\BOOKMARK [1][-]{subsection.4.0.1}{Dise\361o arquitect\363nico}{chapter.4}% 36
+\BOOKMARK [1][-]{section.4.1}{Dise\361o de interfaz}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.1.1}{Estilos de interacci\363n}{section.4.1}% 38
+\BOOKMARK [2][-]{subsection.4.1.2}{Interfaz usuaria}{section.4.1}% 39
+\BOOKMARK [1][-]{section.4.2}{Dise\361o l\363gico}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.2.1}{Diagrama de clases}{section.4.2}% 41
+\BOOKMARK [2][-]{subsection.4.2.2}{Caso de uso reales}{section.4.2}% 42
+\BOOKMARK [1][-]{section.4.3}{Dise\361o de datos}{chapter.4}% 43
+\BOOKMARK [2][-]{subsection.4.3.1}{Archivo ARFF}{section.4.3}% 44
+\BOOKMARK [1][-]{section.4.4}{Dise\361o de pruebas}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.5}{Concluci\363n}{chapter.4}% 46
+\BOOKMARK [0][-]{chapter*.12}{Bibliograf\355a}{}% 47

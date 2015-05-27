@@ -1,0 +1,70 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Ejemplo Competencias Parentales.}}{17}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Ejemplo Propiedades Psicom\IeC {\'e}tricas de la NCFAS.}}{18}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Ejemplo del proceso KDD.}}{19}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ejemplo tablas de frecuencia.}}{22}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Ejemplo de histograma.}}{22}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Ejemplo de pol\IeC {\'\i }gono de frecuencia.}}{23}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces National Family Preservation Network.}}{24}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Ejemplo Fichas de trabajo de Barudy.}}{25}{figure.2.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagrama del Sistema Actual.}}{29}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Modelo Conceptual del Sistema.}}{34}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Diagrama de Caso de Uso general.}}{35}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Caso de Uso Gestionar Usuario.}}{36}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Caso de Uso NCFAS Digital.}}{36}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Caso de Uso Visualizar Informaci\IeC {\'o}n.}}{37}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Caso de Uso Buscar Apreciaciones Guardadas.}}{37}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Caso de Uso Comparar Apreciaciones.}}{37}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Diagrama de secuencia: Crear Usuario.}}{47}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Diagrama de secuencia: Modificar Usuario.}}{48}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diagrama de secuencia: Eliminar Usuario.}}{48}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Diagrama de secuencia: Ingresar Nueva Apreciaci\IeC {\'o}n.}}{49}{figure.3.12}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Diagrama de secuencia: Modificar Apreciaci\IeC {\'o}n.}}{49}{figure.3.13}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Diagrama de secuencia: Buscar Apreciaci\IeC {\'o}n.}}{50}{figure.3.14}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Diagrama de secuencia: Visualizar Informaci\IeC {\'o}n Estad\IeC {\'\i }stica Descriptiva.}}{50}{figure.3.15}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Diagrama de secuencia: Visualizar Informaci\IeC {\'o}n Miner\IeC {\'\i }a de Datos.}}{51}{figure.3.16}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Diagrama de secuencia: Comparar Apreciaciones.}}{51}{figure.3.17}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Diagrama de estado: Crear Usuario.}}{52}{figure.3.18}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Diagrama de estado: Modificar Usuario.}}{53}{figure.3.19}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Diagrama de estado: Eliminar Usuario.}}{53}{figure.3.20}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Diagrama de estado: Ingresar Apreciaci\IeC {\'o}n.}}{54}{figure.3.21}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Diagrama de estado: Modificar Apreciaci\IeC {\'o}n.}}{54}{figure.3.22}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Diagrama de estado: Buscar Apreciaci\IeC {\'o}n.}}{55}{figure.3.23}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Diagrama de estado: Visualizar Informaci\IeC {\'o}n Estad\IeC {\'\i }stica Descriptiva.}}{55}{figure.3.24}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Diagrama de estado: Visualizar Informaci\IeC {\'o}n Miner\IeC {\'\i }a de Datos.}}{56}{figure.3.25}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Diagrama de estado: Comparar Apreciaciones.}}{56}{figure.3.26}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Interfaz de inicio de la herramienta.}}{59}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Interfaz que muestra el inicio luego de ingresar como administrador.}}{60}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Interfaz que muestra el formulario de ingreso de un nuevo usuario al sistema.}}{61}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Interfaz que muestra el inicio luego de ingresar como administrador.}}{62}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Interfaz que muestra los campos editables luego de seleccionar un usuario a modificar.}}{63}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Interfaz que muestra el inicio del sistema.}}{64}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Interfaz que muestra el inicio luego de ingresar a la herramienta NCFAS.}}{65}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Interfaz que muestra el inicio luego de ingresar a la herramienta NCFAS.}}{66}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Interfaz que muestra el inicio luego de ingresar a la herramienta NCFAS.}}{67}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Interfaz que muestra el inicio luego de ingresar a la herramienta NCFAS.}}{68}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Interfaz que muestra el inicio luego de ingresar a la herramienta NCFAS.}}{71}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Interfaz que muestra el formulario para crear un usuario.}}{71}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Interfaz que muestra el formulario para crear un usuario.}}{73}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Interfaz que muestra los usuarios del sistema que se pueden modificar.}}{74}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{74}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{76}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{76}{figure.4.17}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{76}{figure.4.18}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{77}{figure.4.19}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{77}{figure.4.20}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{78}{figure.4.21}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{80}{figure.4.22}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Interfaz que muestra los campos modificables del usuario.}}{80}{figure.4.23}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Interfaz para generar informaci\IeC {\'o}n \IeC {\'u}til a partir de las NCFAS.}}{82}{figure.4.24}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Interfaz que muestra la informaci\IeC {\'o}n utilizando t\IeC {\'e}cnicas de estad\IeC {\'\i }stica descriptiva.}}{82}{figure.4.25}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Interfaz que muestra la informaci\IeC {\'o}n.}}{84}{figure.4.26}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Interfaz que muestra la NCFAS de ingreso comparada con la NCFAS de egreso.}}{86}{figure.4.27}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Figura ejemplo de un \IeC {\'\i }tem de la herramienta NCFAS con su respectiva escala de valores.}}{88}{figure.4.28}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Figura que representa el archivo generado al realizar una apreciaci\IeC {\'o}n familiar.}}{89}{figure.4.29}
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Figura que representa la forma en que los datos ser\IeC {\'a}n representados en nuestro sistema.}}{89}{figure.4.30}
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Figura que representa los datos de una apreciaci\IeC {\'o}n familia.}}{90}{figure.4.31}

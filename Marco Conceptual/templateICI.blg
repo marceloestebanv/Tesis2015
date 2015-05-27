@@ -1,0 +1,31 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: templateICI.aux
+A level-1 auxiliary file: marco.aux
+A level-1 auxiliary file: diseno.aux
+The style file: plain.bst
+Database file #1: template.bib
+You're missing a field part---line 19 of file template.bib
+ :   pages     = 
+ :               ¨{402-427}
+I'm skipping whatever remains of this entry
+Database file #2: informe.bib
+Repeated entry---line 1 of file informe.bib
+ : @book{dawson
+ :             ,
+I'm skipping whatever remains of this entry
+Name 1 in "Khan, W., Xiang,Y., Aalsalem,M., and Arshad, Q." has a comma at the end for entry khan2014
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Khan, W., Xiang,Y., Aalsalem,M., and Arshad, Q." for entry khan2014
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Khan, W., Xiang,Y., Aalsalem,M., and Arshad, Q." for entry khan2014
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Khan, W., Xiang,Y., Aalsalem,M., and Arshad, Q." for entry khan2014
+while executing---line 1049 of file plain.bst
+Name 1 in "Khan, W., Xiang,Y., Aalsalem,M., and Arshad, Q." has a comma at the end for entry khan2014
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Khan, W., Xiang,Y., Aalsalem,M., and Arshad, Q." for entry khan2014
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Khan, W., Xiang,Y., Aalsalem,M., and Arshad, Q." for entry khan2014
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Khan, W., Xiang,Y., Aalsalem,M., and Arshad, Q." for entry khan2014
+while executing---line 1090 of file plain.bst
+(There were 10 error messages)
